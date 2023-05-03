@@ -1,2 +1,2 @@
 # task-IA-dashboard-seiji
-Repositório da IA de dashboard
+Repositório de testes para a elaboração de codigos para geração de Dashboards
