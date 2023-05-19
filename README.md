@@ -1,2 +1,2 @@
-# task-IA-dashboard-seiji
-Repositório de testes para a elaboração de codigos para geração de Dashboards
+# Sprint-2-IA-IOT-Seiji
+Repositorio com o notebook da Sprint 2 do Challenge
