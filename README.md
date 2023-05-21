@@ -11,9 +11,6 @@ O professor poderá criar aulas no aplicativo, marca-las como Realizadas, e favo
 
 Como dito ali em cima, todo modelo de aula deve seguir a risca os padrões Bncc, por isso é importante ressaltar que a ninus segue os padrões da Bncc para o ensino infântil.
 
-Para ajudar a equipe de desenvolvimento criar o sistema de análise Semanal, temos uma outra ia que servirá para gerar um resumo do dia, Assim a ia de analise semanal não precisará analisar as aulas dos dias, Apenas um resumo rico em informações relevantes do dia.
-
-
 ## Informações das IAs:
 
 Prototipo 1 - Analise de sentimentos com rede neural:
