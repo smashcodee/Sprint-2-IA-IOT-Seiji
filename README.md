@@ -14,7 +14,7 @@ Como dito ali em cima, todo modelo de aula deve seguir a risca os padrões Bncc,
 Para ajudar a equipe de desenvolvimento criar o sistema de análise Semanal, temos uma outra ia que servirá para gerar um resumo do dia, Assim a ia de analise semanal não precisará analisar as aulas dos dias, Apenas um resumo rico em informações relevantes do dia.
 
 
-##Informações das IAs:
+## Informações das IAs:
 
 Prototipo 1 - Analise de sentimentos com rede neural:
 - Resumo: Uma IA de Classificação de Texto que tem como objetivo fazer uma Analise de sentimentos a partir do contexto de uma frase.
